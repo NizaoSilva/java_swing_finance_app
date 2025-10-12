@@ -30,4 +30,4 @@ Official download page: [https://dev.mysql.com/downloads/connector/j/](https://d
 - **Withdraw**(...) extend Operation
 - **Transfer**(..., Capital destination) extend Operation
 ### Forms
-![Credentials](images/nome-da-imagem.png)
+![Credentials](images/credentials.png)
