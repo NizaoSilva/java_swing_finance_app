@@ -16,3 +16,17 @@ Official download page: [https://dev.mysql.com/downloads/connector/j/](https://d
 ---
 
 ## Project Structure
+### Classes
+- **Address**(zip_code, ...)
+- **Contact**(name, ..., Address)
+- **Client**(username, password, ..., Contact)
+- **Admin**(...) extend Client
+- Abstract **Capital**(balance, ..., Client)
+- **Current**(...) extend Capital
+- **SafeZone**(super(), Double interest_rate) extend Current
+- **Loan**(..., Double initial_fee) extend SafeZone
+- Abstract **Operation**(value, datetime, ..., Capital)
+- **Deposit**(...) extend Operation
+- **Withdraw**(...) extend Operation
+- **Transfer**(..., Capital destination) extend Operation
+### Forms
