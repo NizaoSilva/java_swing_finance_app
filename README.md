@@ -27,6 +27,7 @@ Official download page: [https://dev.mysql.com/downloads/connector/j/](https://d
 ---
 
 ## Project Structure
+All form screenshots are available in the [Diagram ⛓](https://lucid.app/lucidchart/d719d178-a64a-4bc4-8f8f-a31e21a69fe4/edit?invitationId=inv_9bad4673-da67-4556-bb84-ad3c5793fb6b&page=0_0#).
 ### Classes
 - **Address**(zip_code, ...)
 - **Contact**(name, ..., Address)
@@ -41,17 +42,4 @@ Official download page: [https://dev.mysql.com/downloads/connector/j/](https://d
 - **Withdraw**(...) extend Operation
 - **Transfer**(..., Capital destination) extend Operation
 ### Forms
-![Credentials](images/3_credentials.png)
-![Newuser 1](images/4_newuser1.png)
-![Newuser 2](images/5_newuser2.png)
-![Newuser 3](images/6_newuser3.png)
-![Newuser 4](images/7_newuser4.png)
-![Homepage Admin](images/8_homepageAdmin.png)
-![Homepage Client](images/9_homepageClient.png)
-![Settings](images/10_settings.png)
-![Deposit Operation](images/11_deposit.png)
-![Withdraw Operation](images/12_withdraw.png)
-![Transfer Operation](images/13_transfer.png)
-![Loan Operation](images/14_loan.png)
-![Current Chart](images/15_current_chart.png)
-![Loan Chart](images/16_loan_chart.png)
+All form screenshots are available in the [Images Folder 🖼️](images/).
