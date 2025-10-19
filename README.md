@@ -27,7 +27,7 @@ Official download page: [https://dev.mysql.com/downloads/connector/j/](https://d
 ---
 
 ## Project Structure
-All form screenshots are available in the [Diagram ⛓](https://lucid.app/lucidchart/d719d178-a64a-4bc4-8f8f-a31e21a69fe4/edit?invitationId=inv_9bad4673-da67-4556-bb84-ad3c5793fb6b&page=0_0#).
+All classes and relationships [Diagram ⛓](https://lucid.app/lucidchart/d719d178-a64a-4bc4-8f8f-a31e21a69fe4/edit?invitationId=inv_9bad4673-da67-4556-bb84-ad3c5793fb6b&page=0_0#).
 ### Classes
 - **Address**(zip_code, ...)
 - **Contact**(name, ..., Address)
