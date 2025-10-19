@@ -18,11 +18,11 @@ Official download page: [https://dev.mysql.com/downloads/connector/j/](https://d
 ## Install
 - **Download and extract** the project into the folder C:\Users\User\Documents\NetBeansProjects\
 - **Add connector library:**
-![Connector](images/0_connector.png)
+![Connector](images/00_connector.png)
 - **Make sure you have the mysql server online**
-![Xampp](images/1_xampp.png)
+![Xampp](images/01_xampp.png)
 - **Make sure the mysql server have the finances database**
-![Database](images/2_database.png)
+![Database](images/02_database.png)
 - **Make sure the DataBase class have the correct address to conect in factory method**
 ---
 
